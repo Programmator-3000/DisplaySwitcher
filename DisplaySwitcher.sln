@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplaySwitcher", "DisplaySwitcher\DisplaySwitcher.csproj", "{B17187C5-F97D-4EE3-8ACF-0295A3836096}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplaySwitcherService", "DisplaySwitcherService\DisplaySwitcherService.csproj", "{6540A076-9F03-4E92-AAFB-7D985517E428}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B17187C5-F97D-4EE3-8ACF-0295A3836096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B17187C5-F97D-4EE3-8ACF-0295A3836096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B17187C5-F97D-4EE3-8ACF-0295A3836096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B17187C5-F97D-4EE3-8ACF-0295A3836096}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6540A076-9F03-4E92-AAFB-7D985517E428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6540A076-9F03-4E92-AAFB-7D985517E428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6540A076-9F03-4E92-AAFB-7D985517E428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6540A076-9F03-4E92-AAFB-7D985517E428}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6D0C418-4EF2-4741-8D1C-6791F4FA1DF1}
+	EndGlobalSection
+EndGlobal
